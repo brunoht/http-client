@@ -1,4 +1,4 @@
-# Shared HTTP Client
+# HTTP Client
 
 Cliente HTTP é uma ferramenta utilizada por desenvolvedores que precisar realizar requisições HTTP, normalmente em APIs.
 
